@@ -1,5 +1,5 @@
 {
-  "progLanguages": [
+  [
     { "id": 1, "title": "Java" , "icon":"java.png" , "description":"Java description ...." },
     { "id": 1, "title": "php" , "icon":"php.png" , "description":"php description ...." },
     { "id": 1, "title": "Javascript" , "icon":"javascript.png" , "description":"Javascript description ...." },
